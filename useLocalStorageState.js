@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 
 /**
- *
  * @param {String} key The key to set in localStorage
  * @param {Object} defaultValue The value to use if it is not already in localStorage
  */
